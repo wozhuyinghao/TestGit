@@ -7,5 +7,5 @@ hello zyh
 hello zyh
 hello zyh
 hello zyh
-hello zyh   33333333333
-hello zyh   22222222222
+hello zyh   33333
+hello zyh   22222
